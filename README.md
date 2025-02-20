@@ -11,4 +11,4 @@ Matricula: 885314
 
 ## Tela de projeto no Replit
 
-![](imagens/site replit.png)
+![](imagens/siteReplit.png)
